@@ -4,6 +4,7 @@
 (* ::Text:: *)
 (*Written December 2nd, 2021.*)
 
+(*Input*)
 
 input=Select[Import[FileNameJoin[{NotebookDirectory[],"Day2Input.txt"}],"Table"],Length[#]>0&];
 

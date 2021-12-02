@@ -8,6 +8,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 ## Days Completed
 
 * Day 1: Sonar Sweep
+* Day 2: Dive!
 
 ## Poems
 
@@ -24,3 +25,23 @@ We certainly won't rummage in slow-motion...
 
 We'll need a month, at least, to find the keys  
 Which, sadly, we misplaced beneath the seas.  
+
+### Day 2: Run Silent, Run Deep
+
+The water here is mighty cold,  
+And more pitch black than tar.  
+The vales are deep, or so we're told,  
+But we have got a star.  
+We don't know what day 3 will be,  
+Or what errand it tells,  
+But our floodlights are green and red.  
+Our sonar's jingle bells.  
+
+The challenges we've done before  
+Have rarely been a burden.  
+Like inverse `mod`s; I'd like some more  
+(If I could get a word in).  
+It's difficult to cry or pout,  
+When we can hear a sleigh,  
+And "Silent Night" is sung about  
+The Christmas on the way.  
