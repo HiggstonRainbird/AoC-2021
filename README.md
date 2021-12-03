@@ -9,6 +9,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 
 * Day 1: Sonar Sweep
 * Day 2: Dive!
+* Day 3: Binary Diagnostic
 
 ## Poems
 
@@ -39,9 +40,33 @@ Our sonar's jingle bells.
 
 The challenges we've done before  
 Have rarely been a burden.  
-Like inverse `mod`s; I'd like some more  
-(If I could get a word in).  
+(Like inverse `mod`s; I'd like some more  
+If I could get a word in).  
 It's difficult to cry or pout,  
 When we can hear a sleigh,  
 And "Silent Night" is sung about  
 The Christmas on the way.  
+
+### Day 3: The Power of Two
+
+One and zero: the only components  
+Of your hardware, on closer review.  
+It can calculate monstrous exponents,  
+With transistors that can't count to two.  
+
+With just one piece - the primitive `NOR` gate -  
+You can process the bits that pass through:  
+Turning `on` for the `off`s at the door gate;  
+And for `on`s there, returning `untrue`.  
+
+You can turn `NOR`s to `XOR` gates and `AND`ers,  
+And inverters, to name just a few.  
+And the multi-bit adder-expanders,  
+Are sufficient to build ALUs.  
+
+From these pieces are made all our widgets;  
+It's astounding just what they can do.  
+You can build a whole world with two digits:  
+"On" and "off"; that's the power of two.  
+
+
