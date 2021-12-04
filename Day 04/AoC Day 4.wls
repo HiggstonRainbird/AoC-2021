@@ -6,30 +6,28 @@
 
 (* Import *)
 
-    input=Select[Import[FileNameJoin[{NotebookDirectory[],"Day4Input.txt"}],"Table"],Length[#]>0&];
-    calls=ToExpression["{"~~input[[1,1]]~~"}"];
-    boards=Partition[input[[2;;]],5];
+input=Select[Import[FileNameJoin[{NotebookDirectory[],"Day4Input.txt"}],"Table"],Length[#]>0&];
+calls=ToExpression["{"~~input[[1,1]]~~"}"];
+boards=Partition[input[[2;;]],5];
 
 
 (* Parts 1 & 2 *)
 
+ClearAll@called;called[n_]:=0;
+part1={};part2={};
 
-    ClearAll@called;ClearAll@finished;
-    called[n_]:=0;finished[b_]:=False;
-    part1={};part2={};
-
-    Do[
-     called[c]=1;finishList={};
-     Do[
-      new=Map[called,b,{2}];
-      If[(Max[Total/@new]==5\[Or]Max[Total[new]]==5)\[And]!finished[b],
-       If[Length[first]==0,first={c,b}];
-       last={c,b};
-       AppendTo[finishList,{c,b}];finished[b]=True;
-      ],
-     {b,boards}];
-     boards=Complement[boards,finishList],
-    {c,calls}]
+Do[
+ called[c]=1;finishList={};
+ Do[
+  new=Map[called,b,{2}];
+  If[Max[Total/@new]==5\[Or]Max[Total[new]]==5,
+   If[Length[part1]==0,part1=b];
+   part2={c,b};
+   AppendTo[finishList,b];
+  ],
+ {b,boards}];
+ boards=Complement[boards,finishList],
+{c,calls}]
 
 
 (* Part 1 *)

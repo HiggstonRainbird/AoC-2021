@@ -10,6 +10,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 1: Sonar Sweep
 * Day 2: Dive!
 * Day 3: Binary Diagnostic
+* Day 4: Giant Squid
 
 ## Poems
 
@@ -69,4 +70,34 @@ It's astounding just what they can do.
 You can build a whole world with two digits:  
 "On" and "off"; that's the power of two.  
 
+### Day 4: There Was a Sub That Had a Squid
 
+Across and down,
+You count to five;
+You fear to drown,
+But you're alive.
+
+The squid is big
+Enough to hew,
+Like one small twig
+Your sub in two.
+
+It wants a show
+And you've the thing
+Which ends in 'o'
+And starts with 'bing'.
+
+It makes a bet
+And you agree
+(You've racked some debt
+Out here at sea).
+
+It weighs a ton,
+Your questioned sin:
+Should *it* have fun,
+Or should you *win*?
+
+You've rigged the boards,
+So now, you think:
+What use rewards
+If then, you sink?
