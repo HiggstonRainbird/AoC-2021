@@ -11,6 +11,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 2: Dive!
 * Day 3: Binary Diagnostic
 * Day 4: Giant Squid
+* Day 5: Hydrothermal Venture
 
 ## Poems
 
@@ -101,3 +102,26 @@ You've rigged the boards,
 So now, you think:  
 What use rewards  
 If then, you sink?  
+
+### Day 5: Crossing a Line
+
+With lines of toxic vents below,  
+We make our map, and off we go.  
+They're deadly when they intersect  
+But we won't cross those lines - we've checked.  
+
+We tidy up our code with `Sign[]`s,  
+To handle all the types of lines.  
+And then we read the code and scout  
+For useless lines, to cross them out.  
+
+And cleaning up the code, we find  
+That most of it can be un-lined:  
+The hash maps?  Gone.  And same with `Do[]`.  
+Non-function lines?  Cross them out too.  
+
+The cleaning's fun, the code is neat,  
+But timewise, I've been soundly beat.  
+Code fast *and* well?  I'm at a loss;  
+That line is always hard to cross.  
+

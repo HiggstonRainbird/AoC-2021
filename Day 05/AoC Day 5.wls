@@ -13,22 +13,15 @@ input=Map[ToExpression,StringSplit[#,","]&/@StringSplit[input," -> "],{2}];
 expandSingle[{a_, b_}, len_] := 
   If[a == b, Table[a, len + 1], Range[a, b, Sign[b - a]]];  
 expand[pair_List] := 
-  Transpose[Table[expandSingle[p, Max[Abs[Differences[pair]]]], {p, pair}]];
-
-ClearAll@grid1; ClearAll@grid2;
-grid1[{x_, y_}] := 0; grid2[{x_, y_}] := 0;
+  Transpose[Table[expandSingle[t, Max[Abs[Differences[tuple]]]], {t, tuple // Transpose}]];
 
 
-(*Parts 1 and 2*)
+(*Part 1*)
 
+part1 = Count[
+           Tally[Flatten[expand /@ Select[input, Min[Abs[Differences[#]]] == 0 &], 1]],
+           _?(#[[2]] > 1 &)];
 
-Do[
- grid2[#] += 1 & /@ expand[line];
- If[
-  Min[Abs[line[[1]] - line[[2]]]] == 0,
-  grid1[#] += 1 & /@ expand[line]
-  ],
- {line, input}]
+(*Part 2*)
 
-{Count[DownValues[grid1][[;; , -1]], _?(# > 1 &)] (* Part 1 *),
- Count[DownValues[grid2][[;; , -1]], _?(# > 1 &)] (* Part 2 *)}
+part2 = Count[Tally[Flatten[expand /@ input, 1]], _?(#[[2]] > 1 &)];
