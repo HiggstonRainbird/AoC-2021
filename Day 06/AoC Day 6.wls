@@ -6,10 +6,9 @@
 (*Import & Setup*)
 
 input=Select[Import[FileNameJoin[{NotebookDirectory[],"Day6Input.txt"}],"List"],StringLength[#]>0&];
-input=toExpression@StringSplit[input," -> "|","][[1]];
+input=ToExpression/@StringSplit[input," -> "|","][[1]];
 
 tallyGather[tallies_List] := {#[[1, 1]], Total[#[[;; , 2]]]} & /@ GatherBy[Flatten[tallies, 1], First];
-
 
 (*Parts 1 & 2*)
 

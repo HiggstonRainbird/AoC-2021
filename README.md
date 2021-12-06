@@ -11,7 +11,8 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 2: Dive!
 * Day 3: Binary Diagnostic
 * Day 4: Giant Squid
-* Day 5: Hydrothermal Venture
+* **Day 5: Hydrothermal Venture** (The git history shows the process of this code being made more elegant)
+* Day 6: Lanternfish
 
 ## Poems
 
@@ -125,3 +126,24 @@ But timewise, I've been soundly beat.
 Code fast *and* well?  I'm at a loss;  
 That line is always hard to cross.  
 
+### Day 6: Multiply
+
+It glows  
+And grows  
+Then slows  
+In throes.  
+
+Then two fish swim.  
+They start out slim  
+But things look grim:  
+There's four of 'em!  
+
+The school of four fish, swimming past  
+Began with one; three more amassed  
+And still they're replicating fast  
+There's eight; I hope we've seen the last.  
+
+Now, if the lanternfish could die, or if they needed food or clothes,  
+Then things might never go awry, if they were limited by those.  
+A normal fish will say good-bye, but not (it seems) the fish that glows.  
+I'm scared about this school, for I just counted sixteen; still, it grows.  
