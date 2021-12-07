@@ -13,6 +13,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 4: Giant Squid
 * **Day 5: Hydrothermal Venture** (The git history shows the process of this code being made more elegant)
 * Day 6: Lanternfish
+* Day 7: The Treachery of Whales
 
 ## Poems
 
@@ -147,3 +148,23 @@ Now, if the lanternfish could die, or if they needed food or clothes,
 Then things might never go awry, if they were limited by those.  
 A normal fish will say good-bye, but not (it seems) the fish that glows.  
 I'm scared about this school, for I just counted sixteen; still, it grows.  
+
+### Day 7: The Crustacean Supplication
+
+Crabs above whose sea we scuttle  
+Give us aid, and not rebuttal,  
+Danger comes, surpassing cuttle:  
+Blast a hole, and don't be subtle!  
+We've made friends with a crustacean  
+[Stacking cups while on vacation](https://adventofcode.com/2020/day/23),  
+[After games of long duration](https://adventofcode.com/2020/day/22):  
+Save us from this huge cetacean!  
+
+Whales are fast; too late we tracked them.  
+Bingo, too, does not distract them.  
+Submarines, like ours, attract them:  
+Save us, or they'll soon have snacked them!  
+Hurry, blast through sheet and shale!  
+Wale away, away from whale!  
+It's almost here!  We must not fail!  
+Lest whales should win!  Lest we should wail!  
