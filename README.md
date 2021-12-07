@@ -155,6 +155,7 @@ Crabs above whose sea we scuttle
 Give us aid, and not rebuttal,  
 Danger comes, surpassing cuttle:  
 Blast a hole, and don't be subtle!  
+
 We've made friends with a crustacean  
 [Stacking cups while on vacation](https://adventofcode.com/2020/day/23),  
 [After games of long duration](https://adventofcode.com/2020/day/22):  
@@ -164,7 +165,8 @@ Whales are fast; too late we tracked them.
 Bingo, too, does not distract them.  
 Submarines, like ours, attract them:  
 Save us, or they'll soon have snacked them!  
+
 Hurry, blast through sheet and shale!  
 Wale away, away from whale!  
 It's almost here!  We must not fail!  
-Lest whales should win!  Lest we should wail!  
+Grant us weal lest we should wail!  
