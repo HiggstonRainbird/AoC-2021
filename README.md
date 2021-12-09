@@ -14,6 +14,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * **Day 5: Hydrothermal Venture** (The git history shows the process of this code being made more elegant)
 * Day 6: Lanternfish
 * Day 7: The Treachery of Whales
+* **Day 8: Seven Segment Search** (Contains both brute force and the much faster frequency analysis)
 
 ## Poems
 
@@ -170,3 +171,15 @@ Hurry, blast through sheet and shale!
 Wale away, away from whale!  
 It's almost here!  We must not fail!  
 Grant us weal lest we should wail!  
+
+### Day 8: Constraint Problem
+
+The caves and segments both constrain  
+Where we are apt to go,  
+And like the tracks that turn a train  
+Our course is set, we know.  
+
+Constraints leave but a single route:  
+The segments made it clear.  
+So since we're stuck until we're out,  
+I hope the keys are here.  
