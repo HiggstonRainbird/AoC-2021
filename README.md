@@ -15,6 +15,8 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 6: Lanternfish
 * Day 7: The Treachery of Whales
 * **Day 8: Seven Segment Search** (Contains both brute force and the much faster frequency analysis)
+* Day 9: Smoke Basin
+* Day 10: Syntax Scoring
 
 ## Poems
 
@@ -183,3 +185,62 @@ Constraints leave but a single route:
 The segments made it clear.  
 So since we're stuck until we're out,  
 I hope the keys are here.  
+
+### Day 9: Lines Inscribed on a Utilities File
+
+Though we prepare for puzzles there  
+Are errors we cannot prevent  
+Within the code that we have stowed  
+Throughout the year for this event.  
+
+And when we try to re-apply  
+These functions that we wrote before,  
+The syntax breaks like mica flakes  
+And errors fill the screen, and more.  
+
+The cost is sunk (or so we've thunk)  
+And wasting `Utils` causes pain,  
+So we debug, no longer smug,  
+And lose the time we thought to gain.  
+
+But in the end, we do amend  
+And make it through this game we play.  
+We coders are, to get each star,  
+[Like broken clocks](https://adventofcode.com/2021/day/8), right twice a day.  
+
+### Day 10: Luck is the Draw
+
+"So you see, we keep score,"  
+Said the checker, explaining,  
+"It can be a chore,  
+But it's quite entertaining."  
+
+I looked back, quite confused,  
+At this odd explanation.  
+Were they that amused  
+By some syntax mutation?  
+
+So said I, in responding,  
+"Your scores are all random!  
+They're just corresponding  
+To letters in tandem!  
+
+In what way is it fun?  
+You've no choice in the outcome!  
+So I won't say it's 'dumb' -  
+But you're smarter without some!"  
+
+It looked taken aback  
+When I finished my question,  
+Despite my clear lack  
+Of a better suggestion.  
+
+And it thought long and hard  
+About how to explain it;  
+If it gave some canard,  
+I'd be sure to disdain it.  
+
+And at last, it was done,  
+To explain their desire:  
+"You see, if you've won,  
+There's some stars you acquire."  
