@@ -15,7 +15,7 @@ step[{count_, i_, inp_}] :=
    
    While[Length[nines] > 0,
 	hasFlashed = MapAt[0 &, hasFlashed, nines];
-	toIncrease = Map[Count[Flatten[#], _?(# > 9 &)] &, newState[new], {2}];
+	toIncrease = Map[Count[#, _?(# > 9 &), 2] &, newState[new], {2}];
 	new = (new + toIncrease)*hasFlashed;
 	nines = Position[new, _?(# > 9 &)];
 	];

@@ -17,6 +17,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * **Day 8: Seven Segment Search** (Contains both brute force and the much faster frequency analysis)
 * Day 9: Smoke Basin
 * Day 10: Syntax Scoring
+* Day 11: Dumbo Octopus
 
 ## Poems
 
@@ -244,3 +245,12 @@ And at last, it was done,
 To explain their desire:  
 "You see, if you've won,  
 There's some stars you acquire."  
+
+### Dumbos
+
+These octopuses aren't so bright, but yet they get to shine,  
+And light the caves for miles around when energies align,  
+Eventually syncing up, converging by design:  
+Their pastimes seem to go an awful lot smoother than mine.  
+And so, when yet another piece of submarine should break,  
+I envy the dim octopi; machines were a mistake.  
