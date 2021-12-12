@@ -18,6 +18,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 9: Smoke Basin
 * Day 10: Syntax Scoring
 * Day 11: Dumbo Octopus
+* **Day 12: Passage Pathing** (Contains both brute force and Dijkstra's, for enumerating paths under conditions where brute force is infeasible)
 
 ## Poems
 
@@ -246,7 +247,7 @@ To explain their desire:
 "You see, if you've won,  
 There's some stars you acquire."  
 
-### Dumbos
+### Day 11: Dumbos
 
 These octopuses aren't so bright, but yet they get to shine,  
 And light the caves for miles around when energies align,  
@@ -254,3 +255,342 @@ Eventually syncing up, converging by design:
 Their pastimes seem to go an awful lot smoother than mine.  
 And so, when yet another piece of submarine should break,  
 I envy the dim octopi; machines were a mistake.  
+
+## Day 12: All Roads Lead to Home
+
+[**PRO PATHFINDER: Choose your path wisely**.](https://i.imgur.com/dwVPsqU.png)
+
+    Welcome to PRO PATHFINDER v. 1.0!
+    Please enter your name:
+    > **DIJKSTRA**
+
+    Begin y/n?
+    > y
+    Loading `start`...
+
+***Start***
+
+Welcome, `DIJKSTRA`, to your quest.  
+Journey onwards, if you dare.  
+Choose now: south, or east, or west?  
+Dangers dwell within: beware!  
+
+Caverns you may visit twice,  
+Or more, as heart and path inclines.  
+Small caves, one visit must suffice!  
+Never twice to those confines.  
+
+Do you seek to leave these caves?  
+Reunite with folk and friend?  
+Sally forth, and use your saves!  
+The passage that you seek is `end`.  
+
+Dare you, `DIJKSTRA`, now to start?  
+Pick between your choices three.  
+[You have the map](https://i.imgur.com/dwVPsqU.png).  Have you the heart?  
+`GW`, `nx`, `pt`?  
+
+    > GW
+    Loading `GW`...
+
+***Gnome Wizard***
+
+"Welcome, `DIJKSTRA`,  
+To my home!  
+I am wizard.  
+I am gnome!  
+
+"You may leave  
+Or you may wait.  
+I am wizard.  
+I am great!  
+
+If you're hurt,  
+I'll fix you up.  
+I am wizard,  
+Here is cup!  
+
+`sx`? `nx`?  
+`lg`? `ve`?  
+I am wizard,  
+Tall as knee!"  
+
+    > take cup
+    You take the cup.  Inventory contains: cup.
+
+    > sx
+    Loading `sx`...
+
+***Sinking Xanadu***
+
+[In Xanadu did Kubla Khan](https://en.wikipedia.org/wiki/Kubla_Khan),  
+A stately pleasure-dome decree.  
+Where Alph, the sacred river, ran  
+Through caverns measureless to man  
+Down to a sunless sea.  
+
+But we have measured now, and well  
+We know the routes and paths and ways.  
+And long ago, the tunnels fell,  
+With mournful noise, as though a knell  
+To sound our end of days.  
+
+Hark now!  The final Vespers chime!  
+The way from whence you came shall heave.  
+Flee to `GW` in time  
+Or perish here, like Coleridge's rhyme.  
+Leave now, or never leave!  
+
+    > GW  
+    Loading `GW`..  
+
+***Gnome Wizard***
+
+"Ahh, welcome back!  
+You made it out!  
+That Xanadu's  
+A tricky route.  
+
+I'm glad you're safe!  
+I'm glad you're here!  
+That way is gone.  
+Won't reappear!  
+
+`nx` is nice,  
+Or so I've heard.  
+`lg`? `ve`?  
+They're not preferred.  
+
+I've seen your fate:  
+We'll meet again.  
+I am wizard!  
+See you then!"  
+
+    > nx  
+    Loading `nx`...  
+
+***NeXus***
+
+You have come to the spot in the center,  
+Where the passages all intersect.  
+There are five different ways you can enter.  
+There are four different paths to eject.  
+
+You may go to `GW`'s wizard.  
+You may go to `SM`'s clever horse.  
+Or `pt`, where the siren's call is heard.  
+Or `lg`, where the lamprey has force.  
+
+But although your quaint drawing connects us  
+There is still one unbreakable rule:  
+You can never come back to the NeXus,  
+So choose wisely, and don't be a fool.  
+
+    > pt  
+    Loading `pt`...  
+
+***Perfect Tune***
+
+"Oh, `DIJKSTRA`, praises be that you have come!  
+I knew you'd make it, but I've waited long.  
+Beyond that door, the Alph is sailed and swum,  
+And there, my sisters sing - listen!  Their song!"  
+
+    > press cup to door  
+    You press the cup to the door.  
+    > press ear to cup  
+    You press your ear to the cup.  You can faintly make out the words...  
+    Suddenly, you are struck with an irresistible urge to get closer!  
+    Battering down the door, you dive into the water. 
+    Soon, you find yourself swept away by the current and dashed upon the rocks!  
+
+    You have fallen prey to the sirens!  
+    Undo y/n?  
+    > y  
+
+    > wait  
+
+"You dare to mock my wait?  My sisters' hymn?  
+You won't give heed to music in the air?  
+You won't go in the Alph with me to swim?  
+`SM`, or else `uq`, then!  I don't care!"  
+
+    > uq  
+    Loading `uq`...  
+
+***Ultimate Question***
+
+"I see you've come to me at last;  
+So please, do sit and stay.  
+The question that has puzzled me  
+Is clarified today.  
+
+I am the Great Computer  
+And I've waited here for thee  
+To arrive and act as tutor.  
+For this question and for me.  
+
+It has gnawed at me like cancer  
+But solutions here you bring.  
+So, pray tell, what is the answer  
+When one questions everything?"  
+
+    > 42
+    
+"...so simple.  So sublime.  Indeed,  
+And beautiful, it's true!  
+I have the final piece I need  
+My answer:  Forty-two.  
+
+So in return, I warn you now:  
+Do not go to `TG`!  
+`SM` is now your only choice.  
+I help, as you helped me."  
+
+    > TG
+    Loading `TG`..
+    
+***The Game***
+
+    You have lost the game!
+    Undo y/n?
+    > y
+    
+***Ultimate Question***
+
+    > SM
+    Loading `SM`...
+    
+***Sub-Mare***
+
+"I am the horse who lives beneath the sea.  
+Of FACTS and LOGIC do I make my home.  
+You Yahoos all look just alike to me;  
+I am a [Houyhnhnm](https://en.wikipedia.org/wiki/Houyhnhnm) beneath the foam.  
+
+Your trial states that you may here return  
+But logically, I doubt you ever shall.  
+If you can't see this, you have much to learn,  
+`ve`, or else `lg` via canal.  
+
+You could, of course, directly go to `end`,  
+But I know `DIJKSTRA` takes excessive risk.  
+Unlike the wizard, I am not your friend,  
+But when you see the Guardian: be brisk!  
+
+    > lg
+    > Loading `lg`...
+
+***Lamprey Guardian***
+
+Through mud  
+I scud  
+For blood.  
+
+For eel  
+This meal  
+Is real.  
+
+I'll drink  
+Your ink,  
+I think,  
+
+And feed  
+With speed.  
+Agreed?  
+
+    > GW
+    Loading GW...
+    
+You flee  
+From me,  
+I see...  
+
+***Gnome Wizard***
+
+"Here at last!  
+You're still alive!  
+There were odds out:  
+Six to five!  
+
+I see you're hurt.  
+A lamprey bite?  
+I am wizard!  
+I'll make right!  
+
+All better now?  
+You see, I fix!  
+I am wizard!  
+I have tricks!  
+
+There's just one path  
+As you can see:  
+No more options!  
+Pick `ve`!  
+
+And when you leave,  
+I'll sit and cry.  
+I am wizard!  
+Now, goodbye!  
+
+    > ve
+    Loading `ve`...
+    
+***Very Easy***
+
+Threre are three different jugs on the table,  
+Which, to pass, you must fill by a reckon.  
+Now, the first jug is filled with eight cups' worth,  
+But just five cups will fit in the second.  
+
+Now, the third has three cups as its measure,  
+But is empty now, just like jug 2.  
+So with eight cups' of water between them,  
+Here's the puzzle presented to you:  
+
+Via pouring these jugs, move the water,  
+So the first jug is half full with four,  
+And another four cups in the second,  
+And the third must be empty once more.  
+
+Hearing this, do you think you can do it?  
+Can you finish before you've turned grey?  
+You have journeyed twelve days underwater,  
+But I think that much longer you'll stay.  
+
+    > inv
+    Inventory contains: cup.
+    > scoop water with cup
+    You measure out a cup of water - sure enough, you can scoop exactly one cup's worth!
+    You begin scooping water from the large jug one cup at a time.
+    Soon, you reach the configuration [4, 4, 0].
+    
+You have cheated!  No fair!  That's illegal!  
+I should never have trusted the gnome!  
+I can't stop you - the `end` is now open,  
+So although you've not earned it - go home!  
+
+    > end
+    > Loading `end`...
+    
+***End***
+
+Well done, `DIJKSTRA`!  Here's the end.  
+Roads are tough, and travels, long.  
+Trips like yours will soon be penned:  
+Your journey will sound good as song.  
+
+Traveling to every room  
+You've kept the rules down to the letter.  
+Narrowly avoiding doom  
+And every time, returning better.  
+
+Though you've won, if you should want  
+To try a slightly harder mode  
+In which you can - just once - re-jaunt  
+*That* trip would *surely* earn an ode.  
+
+If you should care to try again  
+And come back to a fresh debut,  
+Eject the floppy disk and then  
+Insert **PRO PATHFINDER**...v. 2!  
