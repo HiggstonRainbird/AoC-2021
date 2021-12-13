@@ -19,6 +19,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 10: Syntax Scoring
 * Day 11: Dumbo Octopus
 * **Day 12: Passage Pathing** (Contains both brute force and Dijkstra's, for enumerating paths under conditions where brute force is infeasible)
+* Day 13: Transparent Origami
 
 ## Poems
 
@@ -594,3 +595,9 @@ If you should care to try again
 And come back to a fresh debut,  
 Eject the floppy disk and then  
 Insert **PRO PATHFINDER**...v. 2!  
+
+### Day 13: Origami
+
+Gossamer paper  
+Folds to make complex patterns  
+Like Christmas snowflakes.  
