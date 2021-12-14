@@ -20,6 +20,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 11: Dumbo Octopus
 * **Day 12: Passage Pathing** (Contains both brute force and Dijkstra's, for enumerating paths under conditions where brute force is infeasible)
 * Day 13: Transparent Origami
+* **Day 14: Extended Polymerization** (Contains both brute force and optimized versions, under part 1 and 2 respectively)
 
 ## Poems
 
@@ -601,3 +602,65 @@ Insert **PRO PATHFINDER**...v. 2!
 Gossamer paper  
 Folds to make complex patterns  
 Like Christmas snowflakes.  
+
+### Day 14: Confessions of a Polymer Scientist
+
+Long ago, I was free;  
+When no chain-links bound me,  
+I was filled to the brim with elation.  
+But I branched out - alas! -  
+To the plastics and glass  
+In the realm of polymerization.  
+
+I had dallied, of course,  
+With the Circle of Mohr's,  
+And with rubber had had a flirtation.  
+But I dodged every hook  
+'Till I picked up a book:  
+"Painter-Coleman: Polymerization".  
+
+When I started this school,  
+I thought resins were cool  
+Since the heat was not set to "cremation".  
+But when temps went ablaze  
+I was set in my ways  
+By the thermo-polymerization.  
+
+Yes, I've long since been cured  
+Of atactic which lured  
+Me to radicalize my vocation.  
+But, I cannot change gear  
+Since I've made my career  
+In this field of polymerization.  
+
+I have given some talks  
+To Electro-Chem docs:  
+They enjoy every graph and citation,  
+But the adjuncts are mean:  
+"That's spaghetti on screen!"  
+When I show them polymerization.  
+
+But there's upsides as well  
+To the field where I dwell:  
+I don't need Maxwell's stinking equation!  
+For my stuff can't conduct  
+And electrons get chucked  
+Out the door in polymerization.  
+
+There are others out there  
+Who I've linked with to share,  
+And our network's helped ease the frustration.  
+Meeting people like me  
+Has increased my degree,  
+My degree of polymerization.  
+
+And I've even had fun  
+Letting DSC run  
+While I'm counting chain ends with titration.  
+And in fact, if compared  
+To compilers, I'm scared  
+Since my program's not spared  
+From the errors declared  
+Which all must be repaired  
+And I feel unprepared --  
+So I'll stick to polymerization!  
