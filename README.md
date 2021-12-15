@@ -21,6 +21,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * **Day 12: Passage Pathing** (Contains both brute force and Dijkstra's, for enumerating paths under conditions where brute force is infeasible)
 * Day 13: Transparent Origami
 * **Day 14: Extended Polymerization** (Contains both brute force and optimized versions, under part 1 and 2 respectively)
+* Day 15: Chiton
 
 ## Poems
 
@@ -614,7 +615,7 @@ In the realm of polymerization.
 
 I had dallied, of course,  
 With the Circle of Mohr's,  
-And with rubber had had a flirtation.  
+And with chemistry had a flirtation.  
 But I dodged every hook  
 'Till I picked up a book:  
 "Painter-Coleman: Polymerization".  
@@ -662,5 +663,13 @@ To compilers, I'm scared
 Since my program's not spared  
 From the errors declared  
 Which all must be repaired  
-And I feel unprepared --  
+By a man unprepared --  
 So I'll stick to polymerization!  
+
+### Day 15: Lazy Limerick #1
+
+You can pathfind to dodge all the critters  
+But the coding is not fit for quitters.  
+By the time you have won  
+When you've got it to run  
+I won't blame you for getting the jitters.  
