@@ -673,3 +673,25 @@ But the coding is not fit for quitters.
 By the time you have won  
 When you've got it to run  
 I won't blame you for getting the jitters.  
+
+### Day 16: An Ordinary Conversation
+
+"Ahoy!  Is this the submarine?  
+Our packets should be nigh.  
+Can anybody hear us?  Do you copy?  Please reply!"  
+
+"A scrambled mess was all we got  
+Of data clearly hexed.  
+Could you be just a bit more clear?  We're all a bit perplexed."  
+
+"A packet's `version` number, then it's  
+`Operator`, `ID`,  
+Concluded by the subpackets.  It all is rather tidy."  
+
+"And when we've done recursion, while more  
+Obstacles befall us?  
+Come on and say the matter where you couldn't simply call us?  
+
+"Any math, we send to you,  
+Or else, it'd surely bore us.  
+[Class had homework](https://adventofcode.com/2020/day/18) overdue we'd hope you'd figure for us..."  
