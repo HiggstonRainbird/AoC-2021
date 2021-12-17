@@ -690,8 +690,37 @@ Concluded by the subpackets.  It all is rather tidy."
 
 "And when we've done recursion, while more  
 Obstacles befall us?  
-Come on and say the matter where you couldn't simply call us?  
+Come on and say the matter where you couldn't simply call us!"  
 
 "Any math, we send to you,  
 Or else, it'd surely bore us.  
 [Class had homework](https://adventofcode.com/2020/day/18) overdue we'd hope you'd figure for us..."  
+
+### Day 17: Cast My Words Into The Ocean
+
+*Inspired by /u/CCC_037's solution [in the programming language Rockstar](https://old.reddit.com/r/adventofcode/comments/ri9kdq/2021_day_17_solutions/hovxq0w/).  This is in no way a valid Rockstar program.*
+
+Let my time be not my time.  
+Let verses carry thought.  
+Cast meaning into poetry.  
+Let target be the spot.  
+
+Shatter coords into shreds;  
+Cast x into the sky.  
+If x stops rolling short of goal  
+Then never think of why.  
+
+Rock the system with the x.  
+Rock on, and rock again.  
+Until the target is surpassed  
+Rock on; but roll it then.  
+
+Take the target - why the start  
+While target lacks a care?  
+Upend the target utterly.  
+Why should it finish there?  
+
+Every coord now will soar  
+Until the sky is furled.  
+Count targets struck by poetry.  
+Shout highest.  Shout the world.  
