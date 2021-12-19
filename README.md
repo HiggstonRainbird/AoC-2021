@@ -22,6 +22,10 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 13: Transparent Origami
 * **Day 14: Extended Polymerization** (Contains both brute force and optimized versions, under part 1 and 2 respectively)
 * Day 15: Chiton
+* Day 16: Packet Decoder
+* Day 17: Trick Shot
+* **Day 18: Snailfish** (Features some interesting abuse of `Position[]` and `MapAt[]`) 
+* Day 19: Beacon Scanner
 
 ## Poems
 
@@ -732,3 +736,56 @@ You must implement snailfish addition.
 There's a `Split[]` and `Explode[]`  
 In `Reduce[]` in your code;  
 Do it fast, and you'll seem a magician.  
+
+### Day 19: A Beacon in the Veil of the Night
+
+How can we travel safely through this cold expanse of night,  
+With disconnected beacons as the only source of light?  
+The scanners that the probe released don't know their East from West.  
+They share a dozen beacons, sometimes; we will do the rest.  
+
+With mirrors, there are forty-eight directions and rotations  
+For each potential overlap between a pair of stations.  
+For all six faces on the cube, we pick the beacons closest,  
+For both beacons, that's thirty-six, times twice a gross (a grossest?).  
+
+Should both the lists of beacons from each scanner be re-sorted,  
+Then for one combination, there's a lone difference reported.  
+This difference is the offset; all we need to join the patches  
+Is check a dozen dozen dozen candidates for matches.  
+
+The order is beyond quadratic; code is beyond slow,  
+But patience is enough to make these ocean trenches glow:  
+When each and every scanner has another in its sight,  
+Then we will fill the murky depths beneath the waves with light.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
