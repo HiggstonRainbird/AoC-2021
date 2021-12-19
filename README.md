@@ -724,3 +724,11 @@ Every coord now will soar
 Until the sky is furled.  
 Count targets struck by poetry.  
 Shout highest.  Shout the world.  
+
+### Day 18: Lazy Limerick #2
+
+There's a new way to finish your mission:  
+You must implement snailfish addition.  
+There's a `Split[]` and `Explode[]`  
+In `Reduce[]` in your code;  
+Do it fast, and you'll seem a magician.  
