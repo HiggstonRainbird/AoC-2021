@@ -26,6 +26,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 17: Trick Shot
 * **Day 18: Snailfish** (Features some interesting abuse of `Position[]` and `MapAt[]`) 
 * Day 19: Beacon Scanner
+* Day 20: Trench Map
 
 ## Poems
 
@@ -747,7 +748,7 @@ They share a dozen beacons, sometimes; we will do the rest.
 With mirrors, there are forty-eight directions and rotations  
 For each potential overlap between a pair of stations.  
 For all six faces on the cube, we pick the beacons closest,  
-For both beacons, that's thirty-six, times twice a gross (a grossest?).  
+For both beacons, that comes to six times twice a gross (a grossest?).  
 
 Should both the lists of beacons from each scanner be re-sorted,  
 Then for one combination, there's a lone difference reported.  
@@ -759,26 +760,42 @@ But patience is enough to make these ocean trenches glow:
 When each and every scanner has another in its sight,  
 Then we will fill the murky depths beneath the waves with light.  
 
+### Day 20: Zoom & Enhance
 
+Hold it.  Run that back, half speed.  
+Go forward three more frames.  Advance.  
+Right there - that glint is what we need,  
+So zoom in there.  Good.  Now, enhance.  
 
+These algorithms reconstruct  
+And pierce through graininess and gloom  
+That, on first sight seem to obstruct  
+A photograph.  Enhance it.  Zoom.  
 
+The glint is a reflection from  
+A polished doorknob, and by chance  
+The perp just into view had come  
+Uncrop the image, and enhance.  
 
+No luck.  His face still can't be seen.  
+'Twas blocked by someone in the room.  
+But look!  Those pixels there, in green!  
+An eye, an iris!  Pan there!  Zoom!  
 
+We too can see the things she saw  
+Reflecting off her forward glance  
+I see a nose and upper jaw:  
+Enough to find a face.  Enhance.  
 
+Have eigenvalues locked on target?  
+Good work.  Bitmap, then resume.  
+Our fractal codes (a bit of argot)  
+Databased a match. Now, zoom.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Investigations once depended  
+Far too much on cirmustance.  
+With these tools, those days have ended.  
+Thank you, code!  Now, zoom.  Enhance.  
 
 
 
