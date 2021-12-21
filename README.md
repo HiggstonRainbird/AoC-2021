@@ -27,6 +27,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * **Day 18: Snailfish** (Features some interesting abuse of `Position[]` and `MapAt[]`) 
 * Day 19: Beacon Scanner
 * Day 20: Trench Map
+* Day 21: Dirac Dice
 
 ## Poems
 
@@ -774,7 +775,7 @@ A photograph.  Enhance it.  Zoom.
 
 The glint is a reflection from  
 A polished doorknob, and by chance  
-The perp just into view had come  
+The perp just into view had come;  
 Uncrop the image, and enhance.  
 
 No luck.  His face still can't be seen.  
@@ -797,12 +798,34 @@ Far too much on cirmustance.
 With these tools, those days have ended.  
 Thank you, code!  Now, zoom.  Enhance.  
 
+### Day 21: The Garden of Forking Paths
 
+You saw a flower on the left  
+Too lovely not to look.  
+I drifted rightward, from the heat  
+To find a shady nook.  
 
+And from that point our paths diverged  
+And separately we strolled  
+Throughout the garden of the worlds  
+Where trees and dice are gold.  
 
+Each garden path, past vine and root,  
+Continues into three,  
+But here and there two paths will meet,  
+Rejoining from the tree.  
 
+I wander through the many paths,  
+And smile at the flowers,  
+And pretty things that bring to mind  
+Old memories of ours.  
 
+But never do I stop and linger  
+Longer than a minute;  
+This garden with its endless green  
+Has one more flower in it.  
 
-
-
-
+And so I walk the myriad paths  
+And roll old Dirac's dice,  
+Until we meet, and hand-in-hand  
+Can walk through Paradise.  
