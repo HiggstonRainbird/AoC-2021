@@ -28,6 +28,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 19: Beacon Scanner
 * Day 20: Trench Map
 * Day 21: Dirac Dice
+* **Day 22: Reactor Reboot** (Contains both Mathematica and Rust code)
 
 ## Poems
 
@@ -829,3 +830,15 @@ And so I walk the myriad paths
 And roll old Dirac's dice,  
 Until we meet, and hand-in-hand  
 Can walk through Paradise.  
+
+### Day 22: Cube
+
+With length and width and height,  
+Complexity is cubic.  
+Brute force won't work tonight,  
+Much like the cube of Rubik.  
+
+I'll code it up in Rust  
+(Mathematica by proxy).  
+The leaderboard's a bust.  
+My brain is feeling boxy.  
