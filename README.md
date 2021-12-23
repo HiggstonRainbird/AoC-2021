@@ -29,6 +29,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 20: Trench Map
 * Day 21: Dirac Dice
 * **Day 22: Reactor Reboot** (Contains both Mathematica and Rust code)
+* Day 23: Amphipod
 
 ## Poems
 
@@ -842,3 +843,46 @@ I'll code it up in Rust
 (Mathematica by proxy).  
 The leaderboard's a bust.  
 My brain is feeling boxy.  
+
+### Day 23: Walking Through The Room
+
+*Sung to the tune of [a song by The Police](https://www.youtube.com/watch?v=mbv-LcdLY-Y).*
+
+Tiny steps are what you take  
+Walking through the room.  
+Don't shuffle a mistake  
+Walking through the room.  
+Amphipods in hallways  
+Walking through the room,  
+Can't arrange in all ways  
+Walking through,  
+Walking through the room.  
+
+Some may say  
+Store amphis in an array.  
+No way.  
+Got structures to use today!  
+Some say  
+"Code's too hard, by hand's the way!"  
+It may  
+But I may as well play.  
+
+Tiny steps are what you take  
+Walking through the room.  
+5 AM and you're awake  
+Walking through the room.  
+Amber, Bronze, and Copper  
+Walking through the room,
+Get 'em sorted proper  
+Walking through,  
+Walking through the room.  
+
+Some may say  
+"We're not getting keys for sleigh.  
+No pay  
+If we're not back Christmas Day!"  
+Some say  
+"Just leave 'em in disarray",  
+But nay:  
+We may as well play!  
+
