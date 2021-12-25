@@ -30,6 +30,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 21: Dirac Dice
 * **Day 22: Reactor Reboot** (Contains both Mathematica and Rust code)
 * Day 23: Amphipod
+* **Day 24: Arithmetic Logic Unit** (Contains both Mathematica and Rust code, as well as multiple approaches)
 
 ## Poems
 
@@ -859,7 +860,7 @@ Walking through,
 Walking through the room.  
 
 Some may say  
-Store amphis in an array.  
+"Store `amphi`s in an array."  
 No way.  
 Got structures to use today!  
 Some say  
@@ -872,7 +873,7 @@ Walking through the room.
 5 AM and you're awake  
 Walking through the room.  
 Amber, Bronze, and Copper  
-Walking through the room,
+Walking through the room,  
 Get 'em sorted proper  
 Walking through,  
 Walking through the room.  
@@ -885,4 +886,17 @@ Some say
 "Just leave 'em in disarray",  
 But nay:  
 We may as well play!  
+
+### Day 24: Logic
+
+Me and logic parted ways,  
+Our friendship at an end,  
+For forcing me to think, on days  
+That I did not intend.  
+
+Now, though, I have huge arrays,  
+And digits to append.  
+Logic I won't stop to praise.  
+Brute Force, though, *there's* a friend.  
+
 
