@@ -899,4 +899,22 @@ And digits to append.
 Logic I won't stop to praise.  
 Brute Force, though, *there's* a friend.  
 
+### Day 25: De Profundis
 
+Into the depths we dove, into the sea,  
+Past lanternfish and amphipod and whale,  
+To find, beneath the cucumbers, the key  
+Which sank beneath the waves, over the rail.  
+
+Into the depths we delved, into the code,  
+Aligning beacons, counting all the paths,  
+Polymers, and dice (when we had slowed),  
+And helping out some snailfish with their maths.  
+
+Into the depths we ducked, behind the scenes  
+Where Eric and the mods concocted fun,  
+To keep us in good cheer till we'd the means  
+To surface once again and see the sun.  
+
+*Clavis Davidica* unlocks the way,  
+And brings us, from the depths, home Christmas Day.  
